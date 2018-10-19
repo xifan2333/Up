@@ -1,0 +1,29 @@
+{
+  "name": "up",
+  "version": "1.0.0",
+  "description": "a tool for uploading pictures to qiniu",
+  "main": "bin/up.js",
+  "bin": {
+    "up": "bin/up.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "qiniu": "^7.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xifan2333/Up.git"
+  },
+  "author": "xifan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xifan2333/Up/issues"
+  },
+  "homepage": "https://github.com/xifan2333/Up#readme"
+}
