@@ -15,7 +15,7 @@
 
 
 ```bash
-git clone 
+git clone https://github.com/xifan2333/Up.git
 cd Up
 npm install
 npm link
